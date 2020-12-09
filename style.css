@@ -8,6 +8,14 @@ body
 	background-image:aliceblue;
 	background-repeat:no-repeat; color:#fff;
 }
+  d{
+        border:1px blue;
+        background-color:red;
+        margin-left:auto;
+        margin-right:auto;
+    }
+        
+        </style>
 div.spacer
 {
 	clear: both;
